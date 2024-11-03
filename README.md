@@ -1,4 +1,4 @@
-# bulldozer_price_prediction
+## bulldozer_price_prediction
 We are solving regression problem of predicting the future sale price of bulldozer using Machine Learning
 
 # 1. Problem definition:
@@ -14,4 +14,8 @@ There are 3 main datasets:
 # 3. Evaluation:
 The evaluation metric for this competition is the RMSLE (root mean squared log error) between the actual and predicted auction prices.
 For more on the evaluation of this project check: https://www.kaggle.com/competitions/bluebook-for-bulldozers/overview/evaluation.
+
+# 4. Features
+Kaggle provides a data dictionary detailing all of the features of the dataset.
+
 # Our goal for this project will be to build a machine learning model which minimises RMSLE.
