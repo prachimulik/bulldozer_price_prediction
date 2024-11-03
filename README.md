@@ -14,7 +14,7 @@ There are 3 main datasets:
 3. `Test.csv` is the test data set contains data from May 1, 2012 - November 2012.
 
 ## 3. Evaluation:
-The evaluation metric for this competition is the RMSLE (root mean squared log error) between the actual and predicted auction prices.
+The evaluation metric for this competition is the `RMSLE (root mean squared log error)` between the actual and predicted auction prices.
 For more on the evaluation of this project check: https://www.kaggle.com/competitions/bluebook-for-bulldozers/overview/evaluation.
 
 ## 4. Features
