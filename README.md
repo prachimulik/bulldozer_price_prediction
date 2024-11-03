@@ -10,8 +10,8 @@ The data is downloaded from the Kaggle Bluebook for Bulldozers Competition.
 There are 3 main datasets:
 
 1. `Train.csv` is the training set, which contains data through the end of 2011.
-`Valid.csv` is the validation set, which contains data from January 1, 2012 - April 30, 2012.
-`Test.csv` is the test data set contains data from May 1, 2012 - November 2012.
+2. `Valid.csv` is the validation set, which contains data from January 1, 2012 - April 30, 2012.
+3. `Test.csv` is the test data set contains data from May 1, 2012 - November 2012.
 
 ## 3. Evaluation:
 The evaluation metric for this competition is the RMSLE (root mean squared log error) between the actual and predicted auction prices.
