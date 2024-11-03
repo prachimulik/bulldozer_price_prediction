@@ -13,5 +13,5 @@ There are 3 main datasets:
 
 # 3. Evaluation:
 The evaluation metric for this competition is the RMSLE (root mean squared log error) between the actual and predicted auction prices.
-For more on the evaluation of this project check: https://www.kaggle.com/competitions/bluebook-for-bulldozers/overview/evaluation
-Our goal for this project will be to build a machine learning model which minimises RMSLE.
+For more on the evaluation of this project check: https://www.kaggle.com/competitions/bluebook-for-bulldozers/overview/evaluation.
+# Our goal for this project will be to build a machine learning model which minimises RMSLE.
